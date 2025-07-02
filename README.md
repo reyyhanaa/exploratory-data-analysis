@@ -1,1 +1,3 @@
 Exploratory Data Analysis (EDA) project and introduction to basic Python programming from the Dibimbing program, focusing on essential data cleaning techniques such as removing duplicate records and handling missing values. This project also includes a practical case study on determining student grades and identifying their corresponding data types, reinforcing foundational programming concepts like conditional statements and type checking. Using Python libraries such as Pandas, this notebook demonstrates key preprocessing steps to ensure data quality before further analysis or modeling.
+
+The dataset used for this analysis is `Students Social Media Addiction.csv` a dummy dataset that captures students' behavior related to social media usage.
